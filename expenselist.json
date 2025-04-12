@@ -1,0 +1,80 @@
+[
+    {
+        "positivity": true,
+        "kind": "Test1",
+        "time": 2020,
+        "quantity": 2.1
+    },
+    {
+        "positivity": true,
+        "kind": "Test1",
+        "time": 2025,
+        "quantity": 5.1
+    },
+    {
+        "positivity": false,
+        "kind": "Test1",
+        "time": 2025,
+        "quantity": -2.1
+    },
+    {
+        "positivity": true,
+        "kind": "Test2",
+        "time": 2025,
+        "quantity": 2.1
+    },
+    {
+        "positivity": true,
+        "kind": "Test2",
+        "time": 2025,
+        "quantity": 4.1
+    },
+    {
+        "positivity": true,
+        "kind": "Test2",
+        "time": 2020,
+        "quantity": 4.1
+    },
+    {
+        "positivity": false,
+        "kind": "Test2",
+        "time": 2025,
+        "quantity": -2.1
+    },
+    {
+        "positivity": true,
+        "kind": "Test3",
+        "time": 2025,
+        "quantity": 2.1
+    },
+    {
+        "positivity": true,
+        "kind": "Test3",
+        "time": 2025,
+        "quantity": 3.1
+    },
+    {
+        "positivity": true,
+        "kind": "Test3",
+        "time": 2020,
+        "quantity": 2.1
+    },
+    {
+        "positivity": false,
+        "kind": "Test3",
+        "time": 2025,
+        "quantity": -2.1
+    },
+    {
+        "positivity": true,
+        "kind": "Test1",
+        "time": 2025,
+        "quantity": 2.1
+    },
+    {
+        "positivity": true,
+        "kind": "Bonus",
+        "time": 2024,
+        "quantity": 5000.0
+    }
+]
